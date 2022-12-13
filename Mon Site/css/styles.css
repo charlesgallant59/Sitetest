@@ -1,0 +1,58 @@
+
+nav.menu-nav ul li.btn{
+	display: inline-block;
+	list-style-type: none;
+}
+
+nav.menu-nav ul li.btn a{
+	color: white;
+	background-color: red;
+	text-decoration: none;
+	padding: 10px;
+	font-size: 15px;
+}
+
+nav.menu-nav ul li.btn:hover a{
+	color: red;
+	background-color: white;
+	transition: 0.3s all;
+}
+
+img{
+	width: 100px;
+}
+
+header{
+	color: red;
+	background-color: white;
+}
+
+footer{
+	color: white;
+	background-color: blue;
+}
+
+/*p.hello{
+	color:#0000ff;
+	background-color: #e64d4e;
+}
+
+p.meteo{
+	color:#0000ff;
+	font-weight: bold;
+}
+
+body{
+	background-color: #777;
+	background-size: 100%;
+}
+
+h2.headline{
+	font-size: 50px;
+	padding-left: 15px;
+}
+
+a{
+	color:#e64d4e;
+	opacity:0.8;
+}*/
